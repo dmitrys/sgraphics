@@ -1,6 +1,6 @@
 sdk: "C:/Rhodes/rhodes"
 sdkversion: 2.3.1
-name: rhodes-graphics
+name: sgraphics
 version: 1.0
 vendor: dmitrys
 build: debug
