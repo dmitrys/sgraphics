@@ -1,0 +1,3 @@
+entry: Init_Sgraphics
+javaentry: com.rho.rubyext.SgraphicsExtension
+libraries: ["Sgraphics"]

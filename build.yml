@@ -1,0 +1,19 @@
+sdk: "C:/Rhodes/rhodes"
+sdkversion: 2.3.1
+name: rhodes-graphics
+version: 1.0
+vendor: dmitrys
+build: debug
+bbver: 5.0
+wmsdk: "Windows Mobile 6 Professional SDK (ARMV4I)"
+applog: rholog.txt
+iphone:
+  configuration: Debug
+  sdk: iphonesimulator4.3
+  provisionprofile:
+  codesignidentity:
+  entitlements:
+  BundleIdentifier: com.rhomobile.sgraphics
+  BundleURLScheme: sgraphics
+
+extensions: ["json", "sgraphics"]
